@@ -1,0 +1,8 @@
+ai_assistant/
+│
+├── app.py                  # Main application file (Streamlit UI)
+├── search.py               # Handles web search and filtering
+├── scrape.py               # Handles web scraping and content extraction
+├── generate.py             # Handles response generation using OpenAI
+├── requirements.txt        # Lists all dependencies
+└── README.md               # Project documentation
