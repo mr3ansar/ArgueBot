@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "Your_Api_Key"
+API_KEY = "secrets.AIzaSyAG68uhc_QDrtu124I4btonmsgRc-rj1pg"
 CX = "Search_id"
 
 def search_web(query):
