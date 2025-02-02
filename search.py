@@ -1,7 +1,7 @@
 import requests
 
-API_KEY = "AIzaSyAG68uhc_QDrtu124I4btonmsgRc-rj1pg"
-CX = "359807cdcdc9e4bd4"
+API_KEY = "Your_Api_Key"
+CX = "Search_id"
 
 def search_web(query):
     url = f"https://www.googleapis.com/customsearch/v1?q={query}&key={API_KEY}&cx={CX}"
