@@ -2,4 +2,4 @@
 requests==2.31.0
 beautifulsoup4==4.12.2
 transformers==4.33.3
-torch==2.1.0  # Add this line
+torch==2.2.0  # Add this line
